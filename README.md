@@ -2,29 +2,34 @@
 
 ## 1. Data processing and mapping
 
-FASTQ files are archived in /home/devel/irenel/scratch/parkinson/BGI
+FASTQ files are archived in 
+/home/devel/irenel/scratch/parkinson/BGI
 
+Scripts are in 
 /home/devel/irenel/scratch/parkinson/scripts/
 
-./trimmomaticConvertQ.sh
+trimmomatic-0.36.jar PE -phred64 -trimlog $log $fq1 $fq2 $out1P $out1U $out2P $out2U TOPHRED33
 
-./addRG.sh
+(trimmomaticConvertQ.sh)
 
-./mergeBams.sh
 
-./rmDup.sh
+(addRG.sh)
 
-./baseRecalibration.sh
+(mergeBams.sh)
 
-./indelRealignment.sh
+(rmDup.sh)
 
-./rmSecAlignments.sh
+(baseRecalibration.sh)
 
-./intersectExomeRegions.sh
+(indelRealignment.sh)
 
-./coverageExome.sh
+(rmSecAlignments.sh)
 
-## Germline variants
+(intersectExomeRegions.sh)
+
+(coverageExome.sh)
+
+## 2. Germline variants
 
 
 
