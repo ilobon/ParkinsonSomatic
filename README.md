@@ -1,20 +1,27 @@
 # ParkinsonSomatic
 
-## Data processing and mapping
+## 1. Data processing and mapping
 
 FASTQ files are archived in /home/devel/irenel/scratch/parkinson/BGI
 
-#### 1.Quality conversion with trimmomatic
-/home/devel/irenel/scratch/parkinson/scripts/trimmomaticConvertQ.sh
+/home/devel/irenel/scratch/parkinson/scripts/
 
-#### 2. Mapping and coverage distribution
+./trimmomaticConvertQ.sh
+
 ./addRG.sh
+
 ./mergeBams.sh
+
 ./rmDup.sh
+
 ./baseRecalibration.sh
+
 ./indelRealignment.sh
+
 ./rmSecAlignments.sh
+
 ./intersectExomeRegions.sh
+
 ./coverageExome.sh
 
 ## Germline variants
