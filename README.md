@@ -2,7 +2,7 @@
 
 ## 1. Data processing and mapping
 
-PDsom_1_Mapping.txt
+PDsomPipeline/PDsom_1_Mapping.txt
 
 ## 2. Germline variants
 
