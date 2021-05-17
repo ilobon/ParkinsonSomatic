@@ -1,0 +1,627 @@
+database	description	size	overlap	expect	enrichmentRatio	pValue	FDR
+geneontology_Biological_Process	regulation of trans-synaptic signaling	417	31	3.96	7.83	0	0
+geneontology_Biological_Process	modulation of chemical synaptic transmission	416	31	3.95	7.85	0	0
+geneontology_Biological_Process	regulation of membrane potential	414	33	3.93	8.4	0	0
+geneontology_Biological_Process	synapse organization	385	29	3.66	7.93	0	0
+geneontology_Biological_Process	cognition	283	25	2.69	9.3	0	0
+geneontology_Biological_Process	learning or memory	244	24	2.32	10.4	0	0
+geneontology_Biological_Process	regulation of postsynaptic membrane potential	137	20	1.3	15.4	0	0
+geneontology_Biological_Process	neurotransmitter transport	268	23	2.54	9.04	9.99e-16	2.58e-13
+geneontology_Biological_Process	synaptic vesicle cycle	193	20	1.83	10.9	2.22e-15	5.43e-13
+geneontology_Biological_Process	regulation of synaptic plasticity	174	19	1.65	11.5	4.44e-15	1.07e-12
+geneontology_Biological_Process	protein localization to synapse	61	13	0.579	22.4	1.44e-14	3.3e-12
+geneontology_Biological_Process	vesicle-mediated transport in synapse	203	19	1.93	9.86	7.53e-14	1.52e-11
+geneontology_Biological_Process	learning	141	16	1.34	12	3.81e-13	6.89e-11
+geneontology_Biological_Process	multicellular organismal signaling	170	17	1.61	10.5	5.55e-13	9.9e-11
+geneontology_Biological_Process	regulation of neuron projection development	475	25	4.51	5.54	3.73e-12	6.18e-10
+geneontology_Biological_Process	regulation of neurotransmitter levels	335	21	3.18	6.6	8.69e-12	1.33e-09
+geneontology_Biological_Process	amino acid transport	131	14	1.24	11.3	2.7e-11	4e-09
+geneontology_Biological_Process	memory	111	13	1.05	12.3	4.4e-11	6.06e-09
+geneontology_Biological_Process	neurotransmitter secretion	165	15	1.57	9.57	5.36e-11	7.24e-09
+geneontology_Biological_Process	signal release from synapse	165	15	1.57	9.57	5.36e-11	7.24e-09
+geneontology_Biological_Process	regulation of synaptic vesicle cycle	113	13	1.07	12.1	5.53e-11	7.4e-09
+geneontology_Biological_Process	transmission of nerve impulse	72	11	0.684	16.1	7.59e-11	9.88e-09
+geneontology_Biological_Process	acidic amino acid transport	56	10	0.532	18.8	1.13e-10	1.38e-08
+geneontology_Biological_Process	axon development	490	23	4.65	4.94	2.82e-10	3.26e-08
+geneontology_Biological_Process	positive regulation of neurogenesis	447	22	4.24	5.18	2.91e-10	3.33e-08
+geneontology_Biological_Process	positive regulation of synaptic transmission	160	14	1.52	9.22	4e-10	4.42e-08
+geneontology_Biological_Process	synaptic vesicle localization	164	14	1.56	8.99	5.55e-10	5.9e-08
+geneontology_Biological_Process	postsynaptic specialization organization	34	8	0.323	24.8	8.3e-10	8.56e-08
+geneontology_Biological_Process	synaptic transmission, glutamatergic	90	11	0.855	12.9	9.02e-10	9.06e-08
+geneontology_Biological_Process	glutamate receptor signaling pathway	90	11	0.855	12.9	9.02e-10	9.06e-08
+geneontology_Biological_Process	adult behavior	141	13	1.34	9.71	9.04e-10	9.06e-08
+geneontology_Biological_Process	postsynaptic specialization assembly	22	7	0.209	33.5	9.35e-10	9.24e-08
+geneontology_Biological_Process	positive regulation of neuron differentiation	350	19	3.32	5.72	1.03e-09	1e-07
+geneontology_Biological_Process	axonogenesis	449	21	4.26	4.93	1.9e-09	1.79e-07
+geneontology_Biological_Process	positive regulation of neuron projection development	264	16	2.51	6.38	4.82e-09	4.42e-07
+geneontology_Biological_Process	synapse assembly	164	13	1.56	8.35	5.79e-09	5.24e-07
+geneontology_Biological_Process	locomotory behavior	197	14	1.87	7.48	6.08e-09	5.46e-07
+geneontology_Biological_Process	regulation of synaptic vesicle transport	84	10	0.798	12.5	6.96e-09	6.18e-07
+geneontology_Biological_Process	synaptic transmission, GABAergic	45	8	0.427	18.7	9.02e-09	7.8e-07
+geneontology_Biological_Process	regulation of neurotransmitter transport	142	12	1.35	8.9	1.1e-08	9.44e-07
+geneontology_Biological_Process	postsynaptic density assembly	18	6	0.171	35.1	1.14e-08	9.66e-07
+geneontology_Biological_Process	regulation of vesicle-mediated transport	499	21	4.74	4.43	1.22e-08	1.03e-06
+geneontology_Biological_Process	postsynaptic density organization	31	7	0.294	23.8	1.34e-08	1.11e-06
+geneontology_Biological_Process	postsynapse assembly	31	7	0.294	23.8	1.34e-08	1.11e-06
+geneontology_Biological_Process	signal release	456	20	4.33	4.62	1.4e-08	1.15e-06
+geneontology_Biological_Process	localization within membrane	146	12	1.39	8.66	1.51e-08	1.24e-06
+geneontology_Biological_Process	regulation of axonogenesis	180	13	1.71	7.61	1.78e-08	1.42e-06
+geneontology_Biological_Process	regulation of neuronal synaptic plasticity	51	8	0.484	16.5	2.54e-08	1.93e-06
+geneontology_Biological_Process	synaptic vesicle transport	153	12	1.45	8.26	2.56e-08	1.93e-06
+geneontology_Biological_Process	establishment of synaptic vesicle localization	153	12	1.45	8.26	2.56e-08	1.93e-06
+geneontology_Biological_Process	glutamate secretion	34	7	0.323	21.7	2.68e-08	2.01e-06
+geneontology_Biological_Process	postsynapse organization	158	12	1.5	8	3.67e-08	2.66e-06
+geneontology_Biological_Process	vesicle localization	305	16	2.9	5.53	3.69e-08	2.67e-06
+geneontology_Biological_Process	regulation of ion transmembrane transport	441	19	4.19	4.54	4.37e-08	3.07e-06
+geneontology_Biological_Process	regulation of calcium ion-dependent exocytosis	103	10	0.978	10.2	5.09e-08	3.56e-06
+geneontology_Biological_Process	long-term synaptic potentiation	78	9	0.741	12.2	5.32e-08	3.71e-06
+geneontology_Biological_Process	excitatory synapse assembly	23	6	0.218	27.5	5.95e-08	4.05e-06
+geneontology_Biological_Process	regulation of synaptic vesicle exocytosis	79	9	0.75	12	5.96e-08	4.05e-06
+geneontology_Biological_Process	cellular potassium ion transport	202	13	1.92	6.78	6.99e-08	4.7e-06
+geneontology_Biological_Process	potassium ion transmembrane transport	202	13	1.92	6.78	6.99e-08	4.7e-06
+geneontology_Biological_Process	ionotropic glutamate receptor signaling pathway	25	6	0.237	25.3	1.03e-07	6.81e-06
+geneontology_Biological_Process	gamma-aminobutyric acid signaling pathway	25	6	0.237	25.3	1.03e-07	6.81e-06
+geneontology_Biological_Process	regulation of postsynaptic specialization assembly	14	5	0.133	37.6	1.36e-07	8.91e-06
+geneontology_Biological_Process	regulation of postsynapse assembly	14	5	0.133	37.6	1.36e-07	8.91e-06
+geneontology_Biological_Process	dicarboxylic acid transport	87	9	0.826	10.9	1.39e-07	9.06e-06
+geneontology_Biological_Process	regulation of synapse organization	215	13	2.04	6.37	1.45e-07	9.38e-06
+geneontology_Biological_Process	regulation of postsynaptic membrane neurotransmitter receptor levels	65	8	0.617	13	1.8e-07	1.15e-05
+geneontology_Biological_Process	regulation of synapse structure or activity	221	13	2.1	6.2	1.99e-07	1.27e-05
+geneontology_Biological_Process	calcium ion regulated exocytosis	152	11	1.44	7.62	2.26e-07	1.42e-05
+geneontology_Biological_Process	synaptic vesicle exocytosis	122	10	1.16	8.63	2.55e-07	1.59e-05
+geneontology_Biological_Process	anion transmembrane transport	266	14	2.53	5.54	2.62e-07	1.63e-05
+geneontology_Biological_Process	potassium ion transport	229	13	2.17	5.98	3e-07	1.82e-05
+geneontology_Biological_Process	positive regulation of cell projection organization	365	16	3.47	4.62	4.27e-07	2.55e-05
+geneontology_Biological_Process	protein localization to postsynaptic membrane	32	6	0.304	19.7	4.97e-07	2.94e-05
+geneontology_Biological_Process	receptor localization to synapse	51	7	0.484	14.5	5.03e-07	2.96e-05
+geneontology_Biological_Process	forebrain development	375	16	3.56	4.49	6.11e-07	3.58e-05
+geneontology_Biological_Process	regulation of cell morphogenesis	473	18	4.49	4.01	6.27e-07	3.65e-05
+geneontology_Biological_Process	regulation of synapse assembly	104	9	0.987	9.11	6.49e-07	3.74e-05
+geneontology_Biological_Process	regulation of neurotransmitter secretion	104	9	0.987	9.11	6.49e-07	3.74e-05
+geneontology_Biological_Process	associative learning	77	8	0.731	10.9	6.8e-07	3.9e-05
+geneontology_Biological_Process	regulation of exocytosis	207	12	1.97	6.11	6.95e-07	3.97e-05
+geneontology_Biological_Process	establishment of vesicle localization	289	14	2.74	5.1	7.11e-07	4.04e-05
+geneontology_Biological_Process	receptor internalization	106	9	1.01	8.94	7.64e-07	4.25e-05
+geneontology_Biological_Process	chloride transport	106	9	1.01	8.94	7.64e-07	4.25e-05
+geneontology_Biological_Process	inorganic anion transmembrane transport	110	9	1.04	8.62	1.05e-06	5.8e-05
+geneontology_Biological_Process	establishment of organelle localization	494	18	4.69	3.84	1.17e-06	6.44e-05
+geneontology_Biological_Process	regulation of synaptic vesicle fusion to presynaptic active zone membrane	10	4	0.0949	42.1	1.58e-06	8.62e-05
+geneontology_Biological_Process	chloride transmembrane transport	86	8	0.817	9.8	1.59e-06	8.67e-05
+geneontology_Biological_Process	regulation of regulated secretory pathway	150	10	1.42	7.02	1.72e-06	9.25e-05
+geneontology_Biological_Process	myelination	117	9	1.11	8.1	1.76e-06	9.37e-05
+geneontology_Biological_Process	neuron migration	151	10	1.43	6.98	1.83e-06	9.64e-05
+geneontology_Biological_Process	organic acid transport	313	14	2.97	4.71	1.83e-06	9.64e-05
+geneontology_Biological_Process	carboxylic acid transport	313	14	2.97	4.71	1.83e-06	9.64e-05
+geneontology_Biological_Process	ensheathment of neurons	119	9	1.13	7.97	2.02e-06	0.000106
+geneontology_Biological_Process	axon ensheathment	119	9	1.13	7.97	2.02e-06	0.000106
+geneontology_Biological_Process	synaptic vesicle fusion to presynaptic active zone membrane	23	5	0.218	22.9	2.14e-06	0.00011
+geneontology_Biological_Process	developmental maturation	273	13	2.59	5.02	2.17e-06	0.000112
+geneontology_Biological_Process	vesicle fusion to plasma membrane	24	5	0.228	21.9	2.68e-06	0.000136
+geneontology_Biological_Process	protein transport within plasma membrane	24	5	0.228	21.9	2.68e-06	0.000136
+geneontology_Biological_Process	neurotransmitter receptor transport	24	5	0.228	21.9	2.68e-06	0.000136
+geneontology_Biological_Process	positive regulation of synapse assembly	66	7	0.627	11.2	3e-06	0.000152
+geneontology_Biological_Process	presynapse organization	43	6	0.408	14.7	3.07e-06	0.000154
+geneontology_Biological_Process	neuron projection extension	160	10	1.52	6.58	3.08e-06	0.000154
+geneontology_Biological_Process	regulation of amine transport	94	8	0.892	8.96	3.14e-06	0.000156
+geneontology_Biological_Process	regulation of synaptic transmission, glutamatergic	67	7	0.636	11	3.33e-06	0.000165
+geneontology_Biological_Process	action potential	127	9	1.21	7.46	3.48e-06	0.000172
+geneontology_Biological_Process	regulation of postsynaptic density assembly	12	4	0.114	35.1	3.67e-06	0.000178
+geneontology_Biological_Process	regulation of neurological system process	128	9	1.22	7.41	3.71e-06	0.000179
+geneontology_Biological_Process	neurotransmitter receptor internalization	26	5	0.247	20.3	4.08e-06	0.000196
+geneontology_Biological_Process	response to ammonium ion	130	9	1.23	7.29	4.21e-06	0.000202
+geneontology_Biological_Process	regulation of cell morphogenesis involved in differentiation	293	13	2.78	4.67	4.72e-06	0.000224
+geneontology_Biological_Process	amine transport	101	8	0.959	8.34	5.38e-06	0.000252
+geneontology_Biological_Process	startle response	28	5	0.266	18.8	6.01e-06	0.000278
+geneontology_Biological_Process	sensory perception of pain	103	8	0.978	8.18	6.23e-06	0.000287
+geneontology_Biological_Process	developmental cell growth	213	11	2.02	5.44	6.24e-06	0.000287
+geneontology_Biological_Process	drug transport	216	11	2.05	5.36	7.13e-06	0.000327
+geneontology_Biological_Process	regulation of presynapse assembly	29	5	0.275	18.2	7.2e-06	0.000328
+geneontology_Biological_Process	regulation of excitatory synapse assembly	14	4	0.133	30.1	7.3e-06	0.00033
+geneontology_Biological_Process	regulation of short-term neuronal synaptic plasticity	14	4	0.133	30.1	7.3e-06	0.00033
+geneontology_Biological_Process	metencephalon development	107	8	1.02	7.87	8.27e-06	0.000373
+geneontology_Biological_Process	regulation of vesicle fusion	30	5	0.285	17.6	8.58e-06	0.000384
+geneontology_Biological_Process	regulation of presynapse organization	30	5	0.285	17.6	8.58e-06	0.000384
+geneontology_Biological_Process	negative regulation of neuron apoptotic process	142	9	1.35	6.68	8.67e-06	0.000386
+geneontology_Biological_Process	regulation of postsynaptic density organization	15	4	0.142	28.1	9.88e-06	0.000433
+geneontology_Biological_Process	acid secretion	110	8	1.04	7.66	1.01e-05	0.000443
+geneontology_Biological_Process	developmental growth involved in morphogenesis	225	11	2.14	5.15	1.05e-05	0.000457
+geneontology_Biological_Process	visual behavior	53	6	0.503	11.9	1.07e-05	0.000463
+geneontology_Biological_Process	cell-cell adhesion via plasma-membrane adhesion molecules	270	12	2.56	4.68	1.09e-05	0.00047
+geneontology_Biological_Process	hippocampus development	81	7	0.769	9.1	1.19e-05	0.00051
+geneontology_Biological_Process	long-term memory	32	5	0.304	16.5	1.19e-05	0.00051
+geneontology_Biological_Process	protein transport within lipid bilayer	32	5	0.304	16.5	1.19e-05	0.00051
+geneontology_Biological_Process	dendrite extension	32	5	0.304	16.5	1.19e-05	0.00051
+geneontology_Biological_Process	hindbrain development	149	9	1.41	6.36	1.28e-05	0.000545
+geneontology_Biological_Process	retrograde axonal transport	16	4	0.152	26.3	1.31e-05	0.000555
+geneontology_Biological_Process	neuronal action potential	34	5	0.323	15.5	1.62e-05	0.000683
+geneontology_Biological_Process	membrane depolarization	85	7	0.807	8.67	1.64e-05	0.000686
+geneontology_Biological_Process	positive regulation of neurological system process	58	6	0.551	10.9	1.81e-05	0.000755
+geneontology_Biological_Process	glial cell differentiation	196	10	1.86	5.37	1.85e-05	0.000768
+geneontology_Biological_Process	vocalization behavior	18	4	0.171	23.4	2.17e-05	0.000896
+geneontology_Biological_Process	response to amyloid-beta	37	5	0.351	14.2	2.49e-05	0.00102
+geneontology_Biological_Process	divalent metal ion transport	448	15	4.25	3.53	2.55e-05	0.00104
+geneontology_Biological_Process	divalent inorganic cation transport	451	15	4.28	3.5	2.76e-05	0.00112
+geneontology_Biological_Process	telencephalon development	250	11	2.37	4.63	2.79e-05	0.00113
+geneontology_Biological_Process	synaptic vesicle recycling	63	6	0.598	10	2.92e-05	0.00117
+geneontology_Biological_Process	calcium ion transport	402	14	3.82	3.67	3.12e-05	0.00125
+geneontology_Biological_Process	positive regulation of dendrite extension	20	4	0.19	21.1	3.38e-05	0.00133
+geneontology_Biological_Process	pallium development	169	9	1.6	5.61	3.48e-05	0.00137
+geneontology_Biological_Process	L-amino acid transport	65	6	0.617	9.72	3.5e-05	0.00137
+geneontology_Biological_Process	cellular response to ammonium ion	66	6	0.627	9.57	3.82e-05	0.00148
+geneontology_Biological_Process	vesicle docking	66	6	0.627	9.57	3.82e-05	0.00148
+geneontology_Biological_Process	cerebellum development	98	7	0.93	7.52	4.14e-05	0.00159
+geneontology_Biological_Process	glial cell development	98	7	0.93	7.52	4.14e-05	0.00159
+geneontology_Biological_Process	presynapse assembly	41	5	0.389	12.8	4.14e-05	0.00159
+geneontology_Biological_Process	excitatory postsynaptic potential	99	7	0.94	7.45	4.42e-05	0.00169
+geneontology_Biological_Process	negative regulation of synaptic transmission	68	6	0.646	9.29	4.53e-05	0.00173
+geneontology_Biological_Process	gliogenesis	265	11	2.52	4.37	4.75e-05	0.00181
+geneontology_Biological_Process	dendrite development	219	10	2.08	4.81	4.76e-05	0.00181
+geneontology_Biological_Process	dendrite morphogenesis	137	8	1.3	6.15	4.98e-05	0.00188
+geneontology_Biological_Process	inorganic anion transport	177	9	1.68	5.36	5e-05	0.00188
+geneontology_Biological_Process	regulation of dendrite extension	22	4	0.209	19.1	5.03e-05	0.00188
+geneontology_Biological_Process	regulation of intracellular transport	422	14	4.01	3.49	5.28e-05	0.00197
+geneontology_Biological_Process	astrocyte differentiation	70	6	0.665	9.03	5.34e-05	0.00198
+geneontology_Biological_Process	central nervous system neuron differentiation	179	9	1.7	5.3	5.45e-05	0.00201
+geneontology_Biological_Process	neuron apoptotic process	224	10	2.13	4.7	5.76e-05	0.00212
+geneontology_Biological_Process	anterograde axonal transport	44	5	0.418	12	5.87e-05	0.00216
+geneontology_Biological_Process	L-glutamate transmembrane transport	23	4	0.218	18.3	6.04e-05	0.00221
+geneontology_Biological_Process	receptor metabolic process	183	9	1.74	5.18	6.47e-05	0.00235
+geneontology_Biological_Process	regulation of ion transmembrane transporter activity	228	10	2.16	4.62	6.67e-05	0.00241
+geneontology_Biological_Process	synapse maturation	24	4	0.228	17.6	7.2e-05	0.00258
+geneontology_Biological_Process	neuromuscular process	107	7	1.02	6.89	7.26e-05	0.00259
+geneontology_Biological_Process	chemical synaptic transmission, postsynaptic	107	7	1.02	6.89	7.26e-05	0.00259
+geneontology_Biological_Process	limbic system development	108	7	1.03	6.83	7.7e-05	0.00273
+geneontology_Biological_Process	regulation of AMPA receptor activity	25	4	0.237	16.9	8.5e-05	0.00299
+geneontology_Biological_Process	regulation of transmembrane transporter activity	235	10	2.23	4.48	8.58e-05	0.00301
+geneontology_Biological_Process	visual learning	48	5	0.456	11	8.98e-05	0.00314
+geneontology_Biological_Process	organelle transport along microtubule	77	6	0.731	8.21	9.14e-05	0.00319
+geneontology_Biological_Process	regulation of postsynaptic cytosolic calcium ion concentration	10	3	0.0949	31.6	9.62e-05	0.00332
+geneontology_Biological_Process	regulation of cation channel activity	151	8	1.43	5.58	9.89e-05	0.0034
+geneontology_Biological_Process	negative regulation of neuron death	196	9	1.86	4.84	0.00011	0.00375
+geneontology_Biological_Process	calcium ion transmembrane transport	292	11	2.77	3.97	0.000113	0.00384
+geneontology_Biological_Process	regulation of neuron apoptotic process	197	9	1.87	4.81	0.000114	0.00386
+geneontology_Biological_Process	organic anion transport	454	14	4.31	3.25	0.000115	0.00388
+geneontology_Biological_Process	amino acid import	27	4	0.256	15.6	0.000116	0.00391
+geneontology_Biological_Process	synaptic vesicle endocytosis	51	5	0.484	10.3	0.00012	0.00402
+geneontology_Biological_Process	presynaptic endocytosis	51	5	0.484	10.3	0.00012	0.00402
+geneontology_Biological_Process	positive regulation of axonogenesis	81	6	0.769	7.8	0.000121	0.00402
+geneontology_Biological_Process	regulation of transporter activity	247	10	2.35	4.26	0.000129	0.00426
+geneontology_Biological_Process	response to histamine	11	3	0.104	28.7	0.000131	0.00429
+geneontology_Biological_Process	secretory granule localization	11	3	0.104	28.7	0.000131	0.00429
+geneontology_Biological_Process	axonal transport	53	5	0.503	9.94	0.000145	0.00469
+geneontology_Biological_Process	amino acid transmembrane transport	84	6	0.798	7.52	0.000148	0.00478
+geneontology_Biological_Process	exocytic process	84	6	0.798	7.52	0.000148	0.00478
+geneontology_Biological_Process	long-term synaptic depression	29	4	0.275	14.5	0.000155	0.00499
+geneontology_Biological_Process	social behavior	54	5	0.513	9.75	0.000158	0.00507
+geneontology_Biological_Process	intraspecies interaction between organisms	54	5	0.513	9.75	0.000158	0.00507
+geneontology_Biological_Process	trans-synaptic signaling, modulating synaptic transmission	12	3	0.114	26.3	0.000174	0.0055
+geneontology_Biological_Process	negative regulation of microtubule polymerization	12	3	0.114	26.3	0.000174	0.0055
+geneontology_Biological_Process	positive regulation of ion transport	258	10	2.45	4.08	0.000184	0.00581
+geneontology_Biological_Process	positive regulation of synaptic transmission, glutamatergic	31	4	0.294	13.6	0.000202	0.0063
+geneontology_Biological_Process	cellular response to amyloid-beta	31	4	0.294	13.6	0.000202	0.0063
+geneontology_Biological_Process	vesicle fusion	89	6	0.845	7.1	0.000204	0.00631
+geneontology_Biological_Process	sodium ion transport	213	9	2.02	4.45	0.000205	0.00631
+geneontology_Biological_Process	cytoskeleton-dependent intracellular transport	170	8	1.61	4.96	0.000224	0.00682
+geneontology_Biological_Process	regulation of long-term synaptic depression	13	3	0.123	24.3	0.000224	0.00682
+geneontology_Biological_Process	cerebellar granular layer development	13	3	0.123	24.3	0.000224	0.00682
+geneontology_Biological_Process	regulation of cell projection size	13	3	0.123	24.3	0.000224	0.00682
+geneontology_Biological_Process	regulation of amino acid transport	33	4	0.313	12.8	0.000259	0.00778
+geneontology_Biological_Process	astrocyte development	33	4	0.313	12.8	0.000259	0.00778
+geneontology_Biological_Process	regulation of catecholamine secretion	61	5	0.579	8.63	0.000282	0.00839
+geneontology_Biological_Process	L-glutamate import	14	3	0.133	22.6	0.000284	0.00839
+geneontology_Biological_Process	organelle membrane fusion	95	6	0.902	6.65	0.000291	0.00857
+geneontology_Biological_Process	regulation of postsynapse organization	96	6	0.911	6.58	0.000308	0.00901
+geneontology_Biological_Process	positive regulation of amine transport	35	4	0.332	12	0.000327	0.00952
+geneontology_Biological_Process	catecholamine secretion	63	5	0.598	8.36	0.000328	0.00955
+geneontology_Biological_Process	prepulse inhibition	15	3	0.142	21.1	0.000352	0.0101
+geneontology_Biological_Process	maintenance of synapse structure	15	3	0.142	21.1	0.000352	0.0101
+geneontology_Biological_Process	neuron cell-cell adhesion	15	3	0.142	21.1	0.000352	0.0101
+geneontology_Biological_Process	protein transport along microtubule	15	3	0.142	21.1	0.000352	0.0101
+geneontology_Biological_Process	microtubule-based protein transport	15	3	0.142	21.1	0.000352	0.0101
+geneontology_Biological_Process	synaptic vesicle clustering	15	3	0.142	21.1	0.000352	0.0101
+geneontology_Biological_Process	axo-dendritic transport	64	5	0.608	8.23	0.000354	0.0101
+geneontology_Biological_Process	protein-containing complex localization	280	10	2.66	3.76	0.000354	0.0101
+geneontology_Biological_Process	membrane depolarization during action potential	36	4	0.342	11.7	0.000365	0.0104
+geneontology_Biological_Process	sodium ion transmembrane transport	140	7	1.33	5.27	0.000385	0.0109
+geneontology_Biological_Process	cellular response to metal ion	185	8	1.76	4.55	0.000396	0.0112
+geneontology_Biological_Process	neurotransmitter receptor transport to plasma membrane	16	3	0.152	19.7	0.00043	0.012
+geneontology_Biological_Process	neurotransmitter receptor transport to postsynaptic membrane	16	3	0.152	19.7	0.00043	0.012
+geneontology_Biological_Process	receptor-mediated endocytosis	287	10	2.72	3.67	0.00043	0.012
+geneontology_Biological_Process	cardiac conduction	105	6	0.997	6.02	0.000498	0.0137
+geneontology_Biological_Process	modulation of excitatory postsynaptic potential	39	4	0.37	10.8	0.000499	0.0137
+geneontology_Biological_Process	multi-organism behavior	69	5	0.655	7.63	0.000502	0.0138
+geneontology_Biological_Process	central nervous system myelination	17	3	0.161	18.6	0.000519	0.0141
+geneontology_Biological_Process	axon ensheathment in central nervous system	17	3	0.161	18.6	0.000519	0.0141
+geneontology_Biological_Process	establishment of protein localization to postsynaptic membrane	17	3	0.161	18.6	0.000519	0.0141
+geneontology_Biological_Process	dopamine secretion	40	4	0.38	10.5	0.00055	0.0148
+geneontology_Biological_Process	regulation of dopamine secretion	40	4	0.38	10.5	0.00055	0.0148
+geneontology_Biological_Process	negative regulation of nervous system development	297	10	2.82	3.55	0.000562	0.0151
+geneontology_Biological_Process	transport along microtubule	151	7	1.43	4.88	0.000606	0.0162
+geneontology_Biological_Process	microtubule-based transport	151	7	1.43	4.88	0.000606	0.0162
+geneontology_Biological_Process	response to metal ion	356	11	3.38	3.25	0.000615	0.0164
+geneontology_Biological_Process	positive regulation of amino acid transport	18	3	0.171	17.6	0.000618	0.0164
+geneontology_Biological_Process	regulation of blood circulation	248	9	2.35	3.82	0.000623	0.0165
+geneontology_Biological_Process	protein localization to cell periphery	301	10	2.86	3.5	0.000623	0.0165
+geneontology_Biological_Process	regulation of cation transmembrane transport	303	10	2.88	3.48	0.000656	0.0173
+geneontology_Biological_Process	neurotransmitter uptake	42	4	0.399	10	0.000664	0.0175
+geneontology_Biological_Process	regulation of metal ion transport	360	11	3.42	3.22	0.000674	0.0177
+geneontology_Biological_Process	peripheral nervous system development	74	5	0.703	7.12	0.000692	0.0182
+geneontology_Biological_Process	cell differentiation in hindbrain	19	3	0.18	16.6	0.000729	0.0189
+geneontology_Biological_Process	regulation of response to food	19	3	0.18	16.6	0.000729	0.0189
+geneontology_Biological_Process	response to anesthetic	75	5	0.712	7.02	0.000736	0.0191
+geneontology_Biological_Process	regulation of heart contraction	205	8	1.95	4.11	0.000779	0.0201
+geneontology_Biological_Process	catecholamine transport	76	5	0.722	6.93	0.000782	0.0202
+geneontology_Biological_Process	response to mechanical stimulus	207	8	1.97	4.07	0.00083	0.0212
+geneontology_Biological_Process	vesicle organization	313	10	2.97	3.36	0.000841	0.0215
+geneontology_Biological_Process	positive regulation of long-term synaptic potentiation	20	3	0.19	15.8	0.000852	0.0217
+geneontology_Biological_Process	vesicle docking involved in exocytosis	45	4	0.427	9.36	0.000864	0.0219
+geneontology_Biological_Process	central nervous system neuron development	78	5	0.741	6.75	0.00088	0.0222
+geneontology_Biological_Process	adult locomotory behavior	78	5	0.741	6.75	0.00088	0.0222
+geneontology_Biological_Process	cellular response to inorganic substance	209	8	1.98	4.03	0.000883	0.0222
+geneontology_Biological_Process	divalent inorganic cation homeostasis	494	13	4.69	2.77	0.000901	0.0227
+geneontology_Biological_Process	cerebellar cortex formation	21	3	0.199	15	0.000987	0.0245
+geneontology_Biological_Process	neuron recognition	47	4	0.446	8.96	0.00102	0.0253
+geneontology_Biological_Process	organelle fusion	121	6	1.15	5.22	0.00105	0.0259
+geneontology_Biological_Process	cellular response to calcium ion	82	5	0.779	6.42	0.0011	0.027
+geneontology_Biological_Process	cerebellar cortex development	48	4	0.456	8.78	0.0011	0.027
+geneontology_Biological_Process	regulation of glutamate receptor signaling pathway	48	4	0.456	8.78	0.0011	0.027
+geneontology_Biological_Process	neuron death	325	10	3.09	3.24	0.00112	0.0273
+geneontology_Biological_Process	homophilic cell adhesion via plasma membrane adhesion molecules	168	7	1.6	4.39	0.00113	0.0275
+geneontology_Biological_Process	organelle localization by membrane tethering	168	7	1.6	4.39	0.00113	0.0275
+geneontology_Biological_Process	intermediate filament organization	22	3	0.209	14.4	0.00113	0.0275
+geneontology_Biological_Process	positive regulation of exocytosis	83	5	0.788	6.34	0.00116	0.0282
+geneontology_Biological_Process	positive regulation of regulated secretory pathway	50	4	0.475	8.43	0.00129	0.0309
+geneontology_Biological_Process	L-alpha-amino acid transmembrane transport	50	4	0.475	8.43	0.00129	0.0309
+geneontology_Biological_Process	exploration behavior	23	3	0.218	13.7	0.0013	0.0309
+geneontology_Biological_Process	positive regulation of potassium ion transmembrane transporter activity	23	3	0.218	13.7	0.0013	0.0309
+geneontology_Biological_Process	response to auditory stimulus	23	3	0.218	13.7	0.0013	0.0309
+geneontology_Biological_Process	regulation of cardiac conduction	51	4	0.484	8.26	0.00139	0.0329
+geneontology_Biological_Process	negative regulation of neurogenesis	278	9	2.64	3.41	0.00139	0.0329
+geneontology_Biological_Process	organic acid transmembrane transport	128	6	1.22	4.94	0.0014	0.0332
+geneontology_Biological_Process	carboxylic acid transmembrane transport	128	6	1.22	4.94	0.0014	0.0332
+geneontology_Biological_Process	dopamine transport	52	4	0.494	8.1	0.00149	0.035
+geneontology_Biological_Process	neuron projection regeneration	52	4	0.494	8.1	0.00149	0.035
+geneontology_Biological_Process	monoamine transport	88	5	0.836	5.98	0.00151	0.0354
+geneontology_Biological_Process	membrane docking	177	7	1.68	4.17	0.00153	0.0357
+geneontology_Biological_Process	response to nerve growth factor	53	4	0.503	7.95	0.0016	0.0372
+geneontology_Biological_Process	cerebellar Purkinje cell layer development	25	3	0.237	12.6	0.00166	0.0383
+geneontology_Biological_Process	positive regulation of calcium ion-dependent exocytosis	25	3	0.237	12.6	0.00166	0.0383
+geneontology_Biological_Process	regulation of response to extracellular stimulus	25	3	0.237	12.6	0.00166	0.0383
+geneontology_Biological_Process	regulation of response to nutrient levels	25	3	0.237	12.6	0.00166	0.0383
+geneontology_Biological_Process	regulation of anion transport	90	5	0.855	5.85	0.00167	0.0385
+geneontology_Biological_Process	receptor clustering	54	4	0.513	7.8	0.00172	0.0394
+geneontology_Biological_Process	regulation of organic acid transport	55	4	0.522	7.66	0.00184	0.0417
+geneontology_Biological_Process	regulation of neurotransmitter receptor activity	55	4	0.522	7.66	0.00184	0.0417
+geneontology_Biological_Process	cellular divalent inorganic cation homeostasis	473	12	4.49	2.67	0.00192	0.0435
+geneontology_Biological_Process	regulation of response to drug	93	5	0.883	5.66	0.00193	0.0436
+geneontology_Biological_Process	regulation of neuron death	292	9	2.77	3.25	0.00194	0.0438
+geneontology_Biological_Process	positive regulation of excitatory postsynaptic potential	27	3	0.256	11.7	0.00208	0.0465
+geneontology_Biological_Process	synaptic membrane adhesion	27	3	0.256	11.7	0.00208	0.0465
+geneontology_Cellular_Component	neuronal cell body	486	42	4.61	9.1	0	0
+geneontology_Cellular_Component	presynapse	483	53	4.59	11.6	0	0
+geneontology_Cellular_Component	synaptic membrane	430	52	4.08	12.7	0	0
+geneontology_Cellular_Component	axon part	374	34	3.55	9.57	0	0
+geneontology_Cellular_Component	glutamatergic synapse	350	38	3.32	11.4	0	0
+geneontology_Cellular_Component	neuron to neuron synapse	341	32	3.24	9.88	0	0
+geneontology_Cellular_Component	postsynaptic specialization	340	35	3.23	10.8	0	0
+geneontology_Cellular_Component	transporter complex	332	34	3.15	10.8	0	0
+geneontology_Cellular_Component	transmembrane transporter complex	324	34	3.08	11.1	0	0
+geneontology_Cellular_Component	postsynaptic membrane	321	41	3.05	13.5	0	0
+geneontology_Cellular_Component	asymmetric synapse	320	30	3.04	9.87	0	0
+geneontology_Cellular_Component	postsynaptic density	316	30	3	10	0	0
+geneontology_Cellular_Component	ion channel complex	300	32	2.85	11.2	0	0
+geneontology_Cellular_Component	cation channel complex	219	24	2.08	11.5	0	0
+geneontology_Cellular_Component	exocytic vesicle	197	23	1.87	12.3	0	0
+geneontology_Cellular_Component	synaptic vesicle	180	23	1.71	13.5	0	0
+geneontology_Cellular_Component	intrinsic component of synaptic membrane	166	31	1.58	19.7	0	0
+geneontology_Cellular_Component	presynaptic membrane	161	22	1.53	14.4	0	0
+geneontology_Cellular_Component	integral component of synaptic membrane	154	28	1.46	19.1	0	0
+geneontology_Cellular_Component	intrinsic component of postsynaptic membrane	122	22	1.16	19	0	0
+geneontology_Cellular_Component	integral component of postsynaptic membrane	117	19	1.11	17.1	0	0
+geneontology_Cellular_Component	postsynaptic specialization membrane	102	19	0.968	19.6	0	0
+geneontology_Cellular_Component	intrinsic component of postsynaptic specialization membrane	77	16	0.731	21.9	0	0
+geneontology_Cellular_Component	GABA-ergic synapse	75	17	0.712	23.9	0	0
+geneontology_Cellular_Component	excitatory synapse	49	16	0.465	34.4	0	0
+geneontology_Cellular_Component	main axon	69	15	0.655	22.9	1.11e-16	3.22e-14
+geneontology_Cellular_Component	integral component of postsynaptic specialization membrane	74	15	0.703	21.3	2.22e-16	6.18e-14
+geneontology_Cellular_Component	intrinsic component of presynaptic membrane	84	15	0.798	18.8	2.11e-15	5.25e-13
+geneontology_Cellular_Component	ionotropic glutamate receptor complex	52	12	0.494	24.3	5.48e-14	1.12e-11
+geneontology_Cellular_Component	neurotransmitter receptor complex	54	12	0.513	23.4	8.97e-14	1.78e-11
+geneontology_Cellular_Component	transport vesicle	374	24	3.55	6.76	1.51e-13	2.88e-11
+geneontology_Cellular_Component	integral component of presynaptic membrane	75	13	0.712	18.3	2.49e-13	4.69e-11
+geneontology_Cellular_Component	distal axon	280	21	2.66	7.9	2.76e-13	5.13e-11
+geneontology_Cellular_Component	synaptic vesicle membrane	102	14	0.968	14.5	8.33e-13	1.43e-10
+geneontology_Cellular_Component	exocytic vesicle membrane	102	14	0.968	14.5	8.33e-13	1.43e-10
+geneontology_Cellular_Component	dendritic spine	165	16	1.57	10.2	4.42e-12	7.22e-10
+geneontology_Cellular_Component	neuron projection terminus	139	15	1.32	11.4	4.46e-12	7.22e-10
+geneontology_Cellular_Component	neuron spine	167	16	1.59	10.1	5.32e-12	8.52e-10
+geneontology_Cellular_Component	postsynaptic density membrane	75	12	0.712	16.9	5.75e-12	9.1e-10
+geneontology_Cellular_Component	transport vesicle membrane	198	17	1.88	9.04	6.64e-12	1.03e-09
+geneontology_Cellular_Component	Schaffer collateral - CA1 synapse	82	12	0.779	15.4	1.72e-11	2.58e-09
+geneontology_Cellular_Component	receptor complex	396	22	3.76	5.85	2.86e-11	4.17e-09
+geneontology_Cellular_Component	myelin sheath	158	15	1.5	10	2.87e-11	4.17e-09
+geneontology_Cellular_Component	neuronal cell body membrane	27	8	0.256	31.2	1.07e-10	1.34e-08
+geneontology_Cellular_Component	cell body membrane	27	8	0.256	31.2	1.07e-10	1.34e-08
+geneontology_Cellular_Component	AMPA glutamate receptor complex	27	8	0.256	31.2	1.07e-10	1.34e-08
+geneontology_Cellular_Component	dendrite membrane	40	9	0.38	23.7	1.09e-10	1.34e-08
+geneontology_Cellular_Component	neuron projection membrane	57	10	0.541	18.5	1.36e-10	1.64e-08
+geneontology_Cellular_Component	perikaryon	126	13	1.2	10.9	2.21e-10	2.61e-08
+geneontology_Cellular_Component	GABA-A receptor complex	19	7	0.18	38.8	2.83e-10	3.26e-08
+geneontology_Cellular_Component	intrinsic component of synaptic vesicle membrane	46	9	0.437	20.6	4.17e-10	4.57e-08
+geneontology_Cellular_Component	GABA receptor complex	20	7	0.19	36.9	4.32e-10	4.66e-08
+geneontology_Cellular_Component	axon terminus	121	12	1.15	10.4	1.77e-09	1.68e-07
+geneontology_Cellular_Component	intrinsic component of postsynaptic density membrane	54	9	0.513	17.6	1.89e-09	1.79e-07
+geneontology_Cellular_Component	leading edge membrane	169	13	1.6	8.1	8.34e-09	7.3e-07
+geneontology_Cellular_Component	voltage-gated potassium channel complex	89	10	0.845	11.8	1.23e-08	1.03e-06
+geneontology_Cellular_Component	integral component of synaptic vesicle membrane	33	7	0.313	22.3	2.14e-08	1.68e-06
+geneontology_Cellular_Component	presynaptic active zone	71	9	0.674	13.4	2.3e-08	1.79e-06
+geneontology_Cellular_Component	plasma membrane receptor complex	184	13	1.75	7.44	2.32e-08	1.79e-06
+geneontology_Cellular_Component	axon initial segment	20	6	0.19	31.6	2.34e-08	1.8e-06
+geneontology_Cellular_Component	integral component of postsynaptic density membrane	51	8	0.484	16.5	2.54e-08	1.93e-06
+geneontology_Cellular_Component	potassium channel complex	98	10	0.93	10.7	3.15e-08	2.33e-06
+geneontology_Cellular_Component	clathrin-sculpted vesicle	12	5	0.114	43.9	5.48e-08	3.77e-06
+geneontology_Cellular_Component	calyx of Held	23	6	0.218	27.5	5.95e-08	4.05e-06
+geneontology_Cellular_Component	node of Ranvier	15	5	0.142	35.1	2.03e-07	1.28e-05
+geneontology_Cellular_Component	parallel fiber to Purkinje cell synapse	16	5	0.152	32.9	2.93e-07	1.79e-05
+geneontology_Cellular_Component	chloride channel complex	49	7	0.465	15	3.8e-07	2.28e-05
+geneontology_Cellular_Component	juxtaparanode region of axon	10	4	0.0949	42.1	1.58e-06	8.62e-05
+geneontology_Cellular_Component	glial cell projection	23	5	0.218	22.9	2.14e-06	0.00011
+geneontology_Cellular_Component	astrocyte projection	12	4	0.114	35.1	3.67e-06	0.000178
+geneontology_Cellular_Component	paranode region of axon	12	4	0.114	35.1	3.67e-06	0.000178
+geneontology_Cellular_Component	cell projection membrane	335	14	3.18	4.4	4.03e-06	0.000194
+geneontology_Cellular_Component	cell leading edge	393	15	3.73	4.02	5.44e-06	0.000254
+geneontology_Cellular_Component	clathrin-coated vesicle	181	10	1.72	5.82	9.23e-06	0.000409
+geneontology_Cellular_Component	terminal bouton	52	6	0.494	12.2	9.55e-06	0.000421
+geneontology_Cellular_Component	intrinsic component of organelle membrane	227	10	2.16	4.64	6.43e-05	0.00235
+geneontology_Cellular_Component	coated vesicle	275	11	2.61	4.21	6.64e-05	0.0024
+geneontology_Cellular_Component	SNARE complex	47	5	0.446	11.2	8.1e-05	0.00286
+geneontology_Cellular_Component	neuron projection cytoplasm	81	6	0.769	7.8	0.000121	0.00402
+geneontology_Cellular_Component	NMDA selective glutamate receptor complex	11	3	0.104	28.7	0.000131	0.00429
+geneontology_Cellular_Component	anchored component of synaptic membrane	12	3	0.114	26.3	0.000174	0.0055
+geneontology_Cellular_Component	growth cone	164	8	1.56	5.14	0.000175	0.00553
+geneontology_Cellular_Component	site of polarized growth	166	8	1.58	5.08	0.00019	0.00597
+geneontology_Cellular_Component	anchored component of membrane	167	8	1.59	5.05	0.000198	0.00621
+geneontology_Cellular_Component	hippocampal mossy fiber to CA3 synapse	32	4	0.304	13.2	0.00023	0.00695
+geneontology_Cellular_Component	clathrin-coated vesicle membrane	107	6	1.02	5.91	0.000551	0.0148
+geneontology_Cellular_Component	integral component of organelle membrane	204	8	1.94	4.13	0.000755	0.0195
+geneontology_Cellular_Component	endocytic vesicle membrane	160	7	1.52	4.61	0.000853	0.0217
+geneontology_Cellular_Component	coated vesicle membrane	169	7	1.6	4.36	0.00117	0.0283
+geneontology_Cellular_Component	T-tubule	51	4	0.484	8.26	0.00139	0.0329
+geneontology_Cellular_Component	axon cytoplasm	53	4	0.503	7.95	0.0016	0.0372
+geneontology_Molecular_Function	passive transmembrane transporter activity	457	32	4.34	7.37	0	0
+geneontology_Molecular_Function	channel activity	456	32	4.33	7.39	0	0
+geneontology_Molecular_Function	substrate-specific channel activity	431	32	4.09	7.82	0	0
+geneontology_Molecular_Function	ion channel activity	415	31	3.94	7.87	0	0
+geneontology_Molecular_Function	gated channel activity	344	30	3.27	9.19	0	0
+geneontology_Molecular_Function	ion gated channel activity	335	30	3.18	9.43	0	0
+geneontology_Molecular_Function	extracellular ligand-gated ion channel activity	75	15	0.712	21.1	3.33e-16	9.1e-14
+geneontology_Molecular_Function	transmitter-gated ion channel activity	61	14	0.579	24.2	4.44e-16	1.17e-13
+geneontology_Molecular_Function	transmitter-gated channel activity	61	14	0.579	24.2	4.44e-16	1.17e-13
+geneontology_Molecular_Function	metal ion transmembrane transporter activity	440	28	4.18	6.7	1.44e-15	3.65e-13
+geneontology_Molecular_Function	postsynaptic neurotransmitter receptor activity	47	12	0.446	26.9	1.44e-14	3.3e-12
+geneontology_Molecular_Function	neurotransmitter receptor activity	116	16	1.1	14.5	1.69e-14	3.79e-12
+geneontology_Molecular_Function	ligand-gated ion channel activity	139	17	1.32	12.9	1.93e-14	4.2e-12
+geneontology_Molecular_Function	ligand-gated channel activity	139	17	1.32	12.9	1.93e-14	4.2e-12
+geneontology_Molecular_Function	cation channel activity	318	23	3.02	7.62	4.06e-14	8.45e-12
+geneontology_Molecular_Function	transmitter-gated ion channel activity involved in regulation of postsynaptic membrane potential	42	11	0.399	27.6	1.37e-13	2.66e-11
+geneontology_Molecular_Function	neurotransmitter receptor activity involved in regulation of postsynaptic membrane potential	45	11	0.427	25.7	3.18e-13	5.83e-11
+geneontology_Molecular_Function	monovalent inorganic cation transmembrane transporter activity	382	22	3.63	6.07	1.42e-11	2.15e-09
+geneontology_Molecular_Function	voltage-gated ion channel activity	197	16	1.87	8.55	6.57e-11	8.63e-09
+geneontology_Molecular_Function	voltage-gated channel activity	197	16	1.87	8.55	6.57e-11	8.63e-09
+geneontology_Molecular_Function	GABA-A receptor activity	19	7	0.18	38.8	2.83e-10	3.26e-08
+geneontology_Molecular_Function	GABA receptor activity	22	7	0.209	33.5	9.35e-10	9.24e-08
+geneontology_Molecular_Function	voltage-gated cation channel activity	142	13	1.35	9.64	9.87e-10	9.68e-08
+geneontology_Molecular_Function	glutamate receptor activity	27	7	0.256	27.3	4.68e-09	4.31e-07
+geneontology_Molecular_Function	inhibitory extracellular ligand-gated ion channel activity	16	6	0.152	39.5	4.98e-09	4.54e-07
+geneontology_Molecular_Function	ligand-gated anion channel activity	19	6	0.18	33.3	1.65e-08	1.33e-06
+geneontology_Molecular_Function	ionotropic glutamate receptor activity	19	6	0.18	33.3	1.65e-08	1.33e-06
+geneontology_Molecular_Function	benzodiazepine receptor activity	11	5	0.104	47.9	3.22e-08	2.37e-06
+geneontology_Molecular_Function	neurotransmitter transporter activity	54	8	0.513	15.6	4.05e-08	2.89e-06
+geneontology_Molecular_Function	potassium ion transmembrane transporter activity	160	12	1.52	7.9	4.22e-08	2.98e-06
+geneontology_Molecular_Function	GABA-gated chloride ion channel activity	12	5	0.114	43.9	5.48e-08	3.77e-06
+geneontology_Molecular_Function	sodium ion transmembrane transporter activity	149	11	1.41	7.78	1.84e-07	1.18e-05
+geneontology_Molecular_Function	potassium channel activity	124	10	1.18	8.49	2.97e-07	1.81e-05
+geneontology_Molecular_Function	calmodulin binding	192	12	1.82	6.58	3.11e-07	1.87e-05
+geneontology_Molecular_Function	chloride channel activity	74	8	0.703	11.4	4.99e-07	2.94e-05
+geneontology_Molecular_Function	amyloid-beta binding	78	8	0.741	10.8	7.51e-07	4.24e-05
+geneontology_Molecular_Function	ligand-gated cation channel activity	106	9	1.01	8.94	7.64e-07	4.25e-05
+geneontology_Molecular_Function	syntaxin-1 binding	22	5	0.209	23.9	1.69e-06	9.1e-05
+geneontology_Molecular_Function	anion channel activity	87	8	0.826	9.68	1.74e-06	9.33e-05
+geneontology_Molecular_Function	voltage-gated potassium channel activity	88	8	0.836	9.57	1.9e-06	9.99e-05
+geneontology_Molecular_Function	chloride transmembrane transporter activity	99	8	0.94	8.51	4.63e-06	0.000221
+geneontology_Molecular_Function	structural constituent of synapse	15	4	0.142	28.1	9.88e-06	0.000433
+geneontology_Molecular_Function	anion transmembrane transporter activity	327	13	3.1	4.19	1.53e-05	0.000647
+geneontology_Molecular_Function	amino acid:cation symporter activity	21	4	0.199	20.1	4.14e-05	0.00159
+geneontology_Molecular_Function	calcium ion transmembrane transporter activity	137	8	1.3	6.15	4.98e-05	0.00188
+geneontology_Molecular_Function	structural constituent of cytoskeleton	101	7	0.959	7.3	5.02e-05	0.00188
+geneontology_Molecular_Function	amino acid transmembrane transporter activity	73	6	0.693	8.66	6.77e-05	0.00244
+geneontology_Molecular_Function	protein C-terminus binding	187	9	1.78	5.07	7.64e-05	0.00272
+geneontology_Molecular_Function	glutamate receptor binding	47	5	0.446	11.2	8.1e-05	0.00286
+geneontology_Molecular_Function	neurotransmitter:sodium symporter activity	27	4	0.256	15.6	0.000116	0.00391
+geneontology_Molecular_Function	active transmembrane transporter activity	346	12	3.29	3.65	0.000121	0.00402
+geneontology_Molecular_Function	inorganic anion transmembrane transporter activity	156	8	1.48	5.4	0.000124	0.0041
+geneontology_Molecular_Function	L-amino acid transmembrane transporter activity	52	5	0.494	10.1	0.000132	0.00431
+geneontology_Molecular_Function	clathrin binding	57	5	0.541	9.24	0.000205	0.00631
+geneontology_Molecular_Function	ionotropic glutamate receptor binding	32	4	0.304	13.2	0.00023	0.00695
+geneontology_Molecular_Function	ATPase activity, coupled to transmembrane movement of ions, phosphorylative mechanism	33	4	0.313	12.8	0.000259	0.00778
+geneontology_Molecular_Function	delayed rectifier potassium channel activity	33	4	0.313	12.8	0.000259	0.00778
+geneontology_Molecular_Function	calcium-dependent protein binding	60	5	0.57	8.78	0.000261	0.00782
+geneontology_Molecular_Function	L-glutamate transmembrane transporter activity	14	3	0.133	22.6	0.000284	0.00839
+geneontology_Molecular_Function	acidic amino acid transmembrane transporter activity	14	3	0.133	22.6	0.000284	0.00839
+geneontology_Molecular_Function	secondary active transmembrane transporter activity	224	9	2.13	4.23	0.000297	0.00872
+geneontology_Molecular_Function	amino acid:sodium symporter activity	15	3	0.142	21.1	0.000352	0.0101
+geneontology_Molecular_Function	solute:cation symporter activity	102	6	0.968	6.2	0.000427	0.012
+geneontology_Molecular_Function	outward rectifier potassium channel activity	16	3	0.152	19.7	0.00043	0.012
+geneontology_Molecular_Function	symporter activity	143	7	1.36	5.16	0.000437	0.0122
+geneontology_Molecular_Function	syntaxin binding	70	5	0.665	7.52	0.000536	0.0146
+geneontology_Molecular_Function	solute:sodium symporter activity	71	5	0.674	7.42	0.000572	0.0154
+geneontology_Molecular_Function	calcium channel regulator activity	43	4	0.408	9.8	0.000726	0.0189
+geneontology_Molecular_Function	neurotransmitter binding	55	4	0.522	7.66	0.00184	0.0417
+geneontology_Molecular_Function	phosphatidylserine binding	55	4	0.522	7.66	0.00184	0.0417
+geneontology_Molecular_Function	channel regulator activity	139	6	1.32	4.55	0.00213	0.0476
+disease_GLAD4U	Central Nervous System Diseases	495	32	4.7	6.81	0	0
+disease_GLAD4U	Brain Diseases	490	31	4.65	6.66	0	0
+disease_GLAD4U	Schizophrenia	413	49	3.92	12.5	0	0
+disease_GLAD4U	Bipolar Disorder	353	33	3.35	9.85	0	0
+disease_GLAD4U	Seizures	275	26	2.61	9.96	0	0
+disease_GLAD4U	Epilepsy	252	31	2.39	13	0	0
+disease_GLAD4U	Mood Disorders	198	24	1.88	12.8	0	0
+disease_GLAD4U	Epilepsy, Generalized	97	17	0.921	18.5	0	0
+disease_GLAD4U	Epilepsy, Temporal Lobe	65	15	0.617	24.3	0	0
+disease_GLAD4U	Substance-Related Disorders	218	22	2.07	10.6	2.22e-16	6.18e-14
+disease_GLAD4U	Epilepsies, Partial	59	13	0.56	23.2	9.1e-15	2.15e-12
+disease_GLAD4U	Eating Disorders	191	19	1.81	10.5	2.46e-14	5.28e-12
+disease_GLAD4U	Depression	222	20	2.11	9.49	3.33e-14	7.03e-12
+disease_GLAD4U	Anxiety Disorders	156	17	1.48	11.5	1.34e-13	2.62e-11
+disease_GLAD4U	schizoaffective disorder	150	16	1.42	11.2	1.01e-12	1.69e-10
+disease_GLAD4U	Psychotic Disorders	133	14	1.26	11.1	3.32e-11	4.77e-09
+disease_GLAD4U	Seizures, Febrile	36	9	0.342	26.3	3.87e-11	5.39e-09
+disease_GLAD4U	Alcoholism	149	14	1.41	9.9	1.55e-10	1.86e-08
+disease_GLAD4U	Autistic Disorder	211	16	2	7.99	1.83e-10	2.18e-08
+disease_GLAD4U	Learning Disorders	82	11	0.779	14.1	3.24e-10	3.67e-08
+disease_GLAD4U	Autism Spectrum Disorder	256	17	2.43	6.99	3.84e-10	4.31e-08
+disease_GLAD4U	Brain Death	160	14	1.52	9.22	4e-10	4.42e-08
+disease_GLAD4U	Cadaver	85	11	0.807	13.6	4.82e-10	5.16e-08
+disease_GLAD4U	Depressive Disorder, Major	136	13	1.29	10.1	5.76e-10	6.08e-08
+disease_GLAD4U	Neurodegenerative Diseases	473	22	4.49	4.9	8.43e-10	8.63e-08
+disease_GLAD4U	Obsessive-Compulsive Disorder	72	10	0.684	14.6	1.49e-09	1.44e-07
+disease_GLAD4U	Alzheimer Disease	227	15	2.16	6.96	4.63e-09	4.3e-07
+disease_GLAD4U	Epilepsy, Rolandic	17	6	0.161	37.2	7.64e-09	6.74e-07
+disease_GLAD4U	Epilepsies, Myoclonic	64	9	0.608	14.8	9.01e-09	7.8e-07
+disease_GLAD4U	Epilepsy, Absence	65	9	0.617	14.6	1.04e-08	8.92e-07
+disease_GLAD4U	Tauopathies	212	14	2.01	6.96	1.55e-08	1.27e-06
+disease_GLAD4U	Dementia	251	15	2.38	6.29	1.8e-08	1.42e-06
+disease_GLAD4U	cognitive dysfunction	93	10	0.883	11.3	1.89e-08	1.49e-06
+disease_GLAD4U	Paraneoplastic Syndromes, Nervous System	35	7	0.332	21.1	3.32e-08	2.42e-06
+disease_GLAD4U	Movement Disorders	266	15	2.53	5.94	3.89e-08	2.79e-06
+disease_GLAD4U	Alcohol-Related Disorders	136	11	1.29	8.52	7.24e-08	4.85e-06
+disease_GLAD4U	Attention Deficit Disorder with Hyperactivity	117	10	1.11	9	1.72e-07	1.11e-05
+disease_GLAD4U	Attention Deficit and Disruptive Behavior Disorders	93	9	0.883	10.2	2.49e-07	1.56e-05
+disease_GLAD4U	Epilepsy, Benign Neonatal	16	5	0.152	32.9	2.93e-07	1.79e-05
+disease_GLAD4U	Peripheral Nervous System Diseases	156	11	1.48	7.43	2.93e-07	1.79e-05
+disease_GLAD4U	Demyelinating Diseases	198	12	1.88	6.38	4.33e-07	2.57e-05
+disease_GLAD4U	Hypoxia-Ischemia, Brain	34	6	0.323	18.6	7.26e-07	4.11e-05
+disease_GLAD4U	Depressive Disorder	143	10	1.36	7.37	1.11e-06	6.15e-05
+disease_GLAD4U	Encephalopathy, Infantile	116	9	1.1	8.17	1.63e-06	8.86e-05
+disease_GLAD4U	Panic Disorder	94	8	0.892	8.96	3.14e-06	0.000156
+disease_GLAD4U	Status Epilepticus	27	5	0.256	19.5	4.97e-06	0.000236
+disease_GLAD4U	Dyskinesias	176	10	1.67	5.98	7.21e-06	0.000328
+disease_GLAD4U	Memory Disorders	78	7	0.741	9.45	9.26e-06	0.000409
+disease_GLAD4U	Neuroblastoma	235	11	2.23	4.93	1.58e-05	0.000665
+disease_GLAD4U	Mental Retardation	436	15	4.14	3.62	1.86e-05	0.000772
+disease_GLAD4U	Fasciculation	61	6	0.579	10.4	2.43e-05	0.001
+disease_GLAD4U	Neuromuscular Diseases	343	13	3.26	3.99	2.52e-05	0.00103
+disease_GLAD4U	Epilepsy, Tonic-Clonic	38	5	0.361	13.9	2.84e-05	0.00115
+disease_GLAD4U	methamphetamine dependence	63	6	0.598	10	2.92e-05	0.00117
+disease_GLAD4U	Nerve Degeneration	129	8	1.22	6.53	3.24e-05	0.00129
+disease_GLAD4U	Diplopia	20	4	0.19	21.1	3.38e-05	0.00133
+disease_GLAD4U	Polyneuropathies	130	8	1.23	6.48	3.42e-05	0.00135
+disease_GLAD4U	Hypoxia, Brain	70	6	0.665	9.03	5.34e-05	0.00198
+disease_GLAD4U	Neuritis	23	4	0.218	18.3	6.04e-05	0.00221
+disease_GLAD4U	Signs and Symptoms	486	15	4.61	3.25	6.45e-05	0.00235
+disease_GLAD4U	Paraneoplastic Syndromes	46	5	0.437	11.4	7.3e-05	0.0026
+disease_GLAD4U	Sclerosis	238	10	2.26	4.43	9.53e-05	0.00332
+disease_GLAD4U	Myokymia	10	3	0.0949	31.6	9.62e-05	0.00332
+disease_GLAD4U	suicide	78	6	0.741	8.1	9.82e-05	0.00339
+disease_GLAD4U	Paralysis	79	6	0.75	8	0.000105	0.00362
+disease_GLAD4U	Dysarthria	80	6	0.76	7.9	0.000113	0.00384
+disease_GLAD4U	lennox gastaut syndrome	28	4	0.266	15	0.000135	0.00438
+disease_GLAD4U	Myoclonic Epilepsy, Juvenile	53	5	0.503	9.94	0.000145	0.00469
+disease_GLAD4U	Multiple Sclerosis	207	9	1.97	4.58	0.000165	0.00528
+disease_GLAD4U	Myoclonus	56	5	0.532	9.4	0.000188	0.00592
+disease_GLAD4U	Speech Disorders	89	6	0.845	7.1	0.000204	0.00631
+disease_GLAD4U	Encephalomyelitis	58	5	0.551	9.08	0.000222	0.00682
+disease_GLAD4U	Developmental disorder NOS	133	7	1.26	5.54	0.000282	0.00839
+disease_GLAD4U	Basal Ganglia Diseases	223	9	2.12	4.25	0.000288	0.00849
+disease_GLAD4U	Craniocerebral Trauma	34	4	0.323	12.4	0.000292	0.00857
+disease_GLAD4U	Tobacco Use Disorder	99	6	0.94	6.38	0.000364	0.0103
+disease_GLAD4U	Brain Ischemia	145	7	1.38	5.08	0.000475	0.0132
+disease_GLAD4U	Dystonia	146	7	1.39	5.05	0.000495	0.0137
+disease_GLAD4U	Brain Injuries	39	4	0.37	10.8	0.000499	0.0137
+disease_GLAD4U	Parkinson Disease	192	8	1.82	4.39	0.000507	0.0139
+disease_GLAD4U	Coma	40	4	0.38	10.5	0.00055	0.0148
+disease_GLAD4U	Dystonic Disorders	41	4	0.389	10.3	0.000605	0.0162
+disease_GLAD4U	Personality Disorders	74	5	0.703	7.12	0.000692	0.0182
+disease_GLAD4U	Neuromyelitis Optica	19	3	0.18	16.6	0.000729	0.0189
+disease_GLAD4U	Ataxia	311	10	2.95	3.39	0.000801	0.0206
+disease_GLAD4U	Epilepsy, Reflex	20	3	0.19	15.8	0.000852	0.0217
+disease_GLAD4U	Paraparesis	45	4	0.427	9.36	0.000864	0.0219
+disease_GLAD4U	Spastic Paraplegia, Hereditary	79	5	0.75	6.67	0.000932	0.0234
+disease_GLAD4U	Bulimia	119	6	1.13	5.31	0.000964	0.0241
+disease_GLAD4U	Hereditary Motor and Sensory Neuropathies	119	6	1.13	5.31	0.000964	0.0241
+disease_GLAD4U	Middle lobe syndrome	21	3	0.199	15	0.000987	0.0245
+disease_GLAD4U	Myelitis, Transverse	21	3	0.199	15	0.000987	0.0245
+disease_GLAD4U	Headache Disorders	81	5	0.769	6.5	0.00104	0.0258
+disease_GLAD4U	Long QT Syndrome	48	4	0.456	8.78	0.0011	0.027
+disease_GLAD4U	Spasms, Infantile	50	4	0.475	8.43	0.00129	0.0309
+disease_GLAD4U	Paraplegia	85	5	0.807	6.2	0.0013	0.0309
+disease_GLAD4U	Unspecified optic neuritis	24	3	0.228	13.2	0.00147	0.0347
+disease_GLAD4U	Sick Sinus Syndrome	52	4	0.494	8.1	0.00149	0.035
+disease_GLAD4U	Migraine with Aura	55	4	0.522	7.66	0.00184	0.0417
+disease_GLAD4U	Migraine without Aura	55	4	0.522	7.66	0.00184	0.0417
+disease_GLAD4U	Migraine NOS	93	5	0.883	5.66	0.00193	0.0436
+disease_GLAD4U	Stroke	239	8	2.27	3.53	0.00207	0.0464
+disease_GLAD4U	Stroke NOS	239	8	2.27	3.53	0.00207	0.0464
+disease_GLAD4U	Psychomotor epilepsy	57	4	0.541	7.39	0.0021	0.0468
+phenotype_Human_Phenotype_Ontology	Epileptic encephalopathy	80	13	0.76	17.1	5.95e-13	1.05e-10
+phenotype_Human_Phenotype_Ontology	Myoclonus	175	17	1.66	10.2	8.93e-13	1.52e-10
+phenotype_Human_Phenotype_Ontology	Focal-onset seizure	58	11	0.551	20	6.42e-12	1e-09
+phenotype_Human_Phenotype_Ontology	Interictal EEG abnormality	109	13	1.03	12.6	3.48e-11	4.94e-09
+phenotype_Human_Phenotype_Ontology	EEG abnormality	288	19	2.73	6.95	3.76e-11	5.29e-09
+phenotype_Human_Phenotype_Ontology	Abnormality of central nervous system electrophysiology	304	19	2.89	6.58	9.53e-11	1.23e-08
+phenotype_Human_Phenotype_Ontology	Generalized-onset seizure	144	14	1.37	10.2	9.76e-11	1.25e-08
+phenotype_Human_Phenotype_Ontology	Interictal epileptiform activity	107	12	1.02	11.8	4.2e-10	4.57e-08
+phenotype_Human_Phenotype_Ontology	Chorea	112	12	1.06	11.3	7.18e-10	7.51e-08
+phenotype_Human_Phenotype_Ontology	Abnormal nervous system electrophysiology	384	20	3.65	5.49	7.48e-10	7.77e-08
+phenotype_Human_Phenotype_Ontology	Absent speech	177	14	1.68	8.33	1.52e-09	1.46e-07
+phenotype_Human_Phenotype_Ontology	EEG with generalized epileptiform discharges	97	11	0.921	11.9	2.04e-09	1.9e-07
+phenotype_Human_Phenotype_Ontology	Encephalopathy	198	14	1.88	7.45	6.49e-09	5.79e-07
+phenotype_Human_Phenotype_Ontology	Generalized tonic-clonic seizures	92	10	0.873	11.4	1.7e-08	1.36e-06
+phenotype_Human_Phenotype_Ontology	Inability to walk	98	10	0.93	10.7	3.15e-08	2.33e-06
+phenotype_Human_Phenotype_Ontology	Febrile seizures	35	7	0.332	21.1	3.32e-08	2.42e-06
+phenotype_Human_Phenotype_Ontology	Delayed speech and language development	439	19	4.17	4.56	4.07e-08	2.89e-06
+phenotype_Human_Phenotype_Ontology	Choreoathetosis	61	8	0.579	13.8	1.08e-07	7.15e-06
+phenotype_Human_Phenotype_Ontology	Status epilepticus	69	8	0.655	12.2	2.88e-07	1.78e-05
+phenotype_Human_Phenotype_Ontology	Tremor	376	16	3.57	4.48	6.33e-07	3.67e-05
+phenotype_Human_Phenotype_Ontology	Epileptic spasms	23	5	0.218	22.9	2.14e-06	0.00011
+phenotype_Human_Phenotype_Ontology	Focal clonic seizures	11	4	0.104	38.3	2.46e-06	0.000126
+phenotype_Human_Phenotype_Ontology	Absence seizures	44	6	0.418	14.4	3.52e-06	0.000173
+phenotype_Human_Phenotype_Ontology	Dyskinesia	96	8	0.911	8.78	3.68e-06	0.000178
+phenotype_Human_Phenotype_Ontology	Photosensitive tonic-clonic seizures	13	4	0.123	32.4	5.26e-06	0.000248
+phenotype_Human_Phenotype_Ontology	Abnormal emotion/affect behavior	296	13	2.81	4.63	5.27e-06	0.000248
+phenotype_Human_Phenotype_Ontology	Abnormal aggressive, impulsive or violent behavior	171	10	1.62	6.16	5.59e-06	0.00026
+phenotype_Human_Phenotype_Ontology	EEG with spike-wave complexes	28	5	0.266	18.8	6.01e-06	0.000278
+phenotype_Human_Phenotype_Ontology	Aggressive behavior	142	9	1.35	6.68	8.67e-06	0.000386
+phenotype_Human_Phenotype_Ontology	Focal motor seizures	17	4	0.161	24.8	1.7e-05	0.00071
+phenotype_Human_Phenotype_Ontology	Tremor by anatomical site	38	5	0.361	13.9	2.84e-05	0.00115
+phenotype_Human_Phenotype_Ontology	Generalized myoclonic seizures	64	6	0.608	9.87	3.2e-05	0.00127
+phenotype_Human_Phenotype_Ontology	Intellectual disability, severe	209	10	1.98	5.04	3.2e-05	0.00127
+phenotype_Human_Phenotype_Ontology	Hypsarrhythmia	67	6	0.636	9.43	4.16e-05	0.0016
+phenotype_Human_Phenotype_Ontology	Focal impaired awareness seizure	22	4	0.209	19.1	5.03e-05	0.00188
+phenotype_Human_Phenotype_Ontology	Episodic ataxia	10	3	0.0949	31.6	9.62e-05	0.00332
+phenotype_Human_Phenotype_Ontology	Dysarthria	397	13	3.77	3.45	0.000112	0.00382
+phenotype_Human_Phenotype_Ontology	Dysphasia	51	5	0.484	10.3	0.00012	0.00402
+phenotype_Human_Phenotype_Ontology	Dystonia	296	11	2.81	3.91	0.000127	0.00421
+phenotype_Human_Phenotype_Ontology	Dysesthesia	12	3	0.114	26.3	0.000174	0.0055
+phenotype_Human_Phenotype_Ontology	Self-injurious behavior	57	5	0.541	9.24	0.000205	0.00631
+phenotype_Human_Phenotype_Ontology	Autistic behavior	215	9	2.04	4.41	0.00022	0.00675
+phenotype_Human_Phenotype_Ontology	Atypical absence seizures	14	3	0.133	22.6	0.000284	0.00839
+phenotype_Human_Phenotype_Ontology	Torticollis	35	4	0.332	12	0.000327	0.00952
+phenotype_Human_Phenotype_Ontology	Generalized tonic-clonic seizures with focal onset	15	3	0.142	21.1	0.000352	0.0101
+phenotype_Human_Phenotype_Ontology	Focal dystonia	68	5	0.646	7.74	0.000469	0.0131
+phenotype_Human_Phenotype_Ontology	Abnormality of esophagus physiology	406	12	3.85	3.11	0.000519	0.0141
+phenotype_Human_Phenotype_Ontology	Atonic seizures	17	3	0.161	18.6	0.000519	0.0141
+phenotype_Human_Phenotype_Ontology	Infantile spasms	19	3	0.18	16.6	0.000729	0.0189
+phenotype_Human_Phenotype_Ontology	Mental deterioration	207	8	1.97	4.07	0.00083	0.0212
+phenotype_Human_Phenotype_Ontology	Stereotypy	77	5	0.731	6.84	0.00083	0.0212
+phenotype_Human_Phenotype_Ontology	EEG with polyspike wave complexes	21	3	0.199	15	0.000987	0.0245
+phenotype_Human_Phenotype_Ontology	Developmental regression	216	8	2.05	3.9	0.00109	0.0269
+phenotype_Human_Phenotype_Ontology	Spastic gait	48	4	0.456	8.78	0.0011	0.027
+phenotype_Human_Phenotype_Ontology	Self-mutilation	22	3	0.209	14.4	0.00113	0.0275
+phenotype_Human_Phenotype_Ontology	Variable expressivity	278	9	2.64	3.41	0.00139	0.0329
+phenotype_Human_Phenotype_Ontology	Cognitive impairment	460	12	4.37	2.75	0.00152	0.0356
+phenotype_Human_Phenotype_Ontology	Headache	177	7	1.68	4.17	0.00153	0.0357
+phenotype_Human_Phenotype_Ontology	Juvenile onset	91	5	0.864	5.79	0.00176	0.0403
+phenotype_Human_Phenotype_Ontology	Deeply set eye	134	6	1.27	4.72	0.00177	0.0406
+phenotype_Human_Phenotype_Ontology	Atrophy/Degeneration affecting the cerebrum	414	11	3.93	2.8	0.00206	0.0464
+phenotype_Human_Phenotype_Ontology	Abnormality of the musculature of the neck	96	5	0.911	5.49	0.00222	0.0494
